@@ -1,7 +1,7 @@
-BOT_TOKEN = '5937063525:AAFyiKLvcajAEt1f4HZfNhf4p-v0B2Vq61Q'
-PAYMENTS_TOKEN = '381764678:TEST:45684'
+BOT_TOKEN = ''
+PAYMENTS_TOKEN = ''
 
-CREDENTIALS_FILE = 'creds.json'
+CREDENTIALS_FILE = 'creds.json' # файл для подключения к аккаунту google
 admin_spreadsheet_id = '1SEN9yFzWjYk976bQCcjhC6Rk0iUlCRIFt92mqFACRoM'
 employees_spreadsheet_id = '1a8LB2O-HNKb-BKhIweXOkIo0TXcTsJIUz2z3AfDuxGI'
 
